@@ -17,7 +17,7 @@ const student2 = {
   birthdate: "October 8, 2004",
   birthplace: "San Agustin, Candon City, Ilocos Sur, Philippines 2710",
   address: "San Agustin, Candon City, Ilocos Sur, Philippines 2710",
-  course: "Bachelor of Science in Computer Science 2",
+  course: "Bachelor of Science in Computer Science (2nd Year)",
   dreamJob: "Company Programmer"
 };
 
