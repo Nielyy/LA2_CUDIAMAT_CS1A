@@ -1,24 +1,24 @@
 
 const student1 = {
-  firstName: "Juan",
-  middleName: "Gamoso",
-  lastName: "Dela Cruz",
-  birthdate: "January 1, 2001",
-  birthplace: "Upper Bonifacio, Baguio City, Benguet, Philippines 2600",
-  address: "San Nicolas, Candon City, Ilocos Sur, Philippines 2710",
-  course: "Bachelor of Science in Computer Science",
-  dreamJob: "Software Engineer"
+  firstName: "Rona mae",
+  middleName: "Sambrano",
+  lastName: "Roy",
+  birthdate: "October 25, 2006",
+  birthplace: "Lancuas, San Emilio, Ilocos Sur, Philippines 2722",
+  address: "Lancuas, San Emilio, Ilocos Sur, Philippines 2722",
+  course: "Bachelor of Secondary Education(1st year) ",
+  dreamJob: "Teacher"
 };
 
 const student2 = {
-  firstName: "Maria",
-  middleName: "Santos",
-  lastName: "Garcia",
-  birthdate: "March 15, 2002",
-  birthplace: "Poblacion, Vigan City, Ilocos Sur, Philippines 2700",
-  address: "Barangay 1, Laoag City, Ilocos Norte, Philippines 9900",
-  course: "Bachelor of Science in Information Technology",
-  dreamJob: "Data Scientist"
+  firstName: "Gary Dave",
+  middleName: "Ramirez",
+  lastName: "Acena",
+  birthdate: "October 8, 2004",
+  birthplace: "San Agustin, Candon City, Ilocos Sur, Philippines 2710",
+  address: "San Agustin, Candon City, Ilocos Sur, Philippines 2710",
+  course: "Bachelor of Science in Computer Science 2",
+  dreamJob: "Company Programmer"
 };
 
 
